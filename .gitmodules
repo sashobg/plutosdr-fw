@@ -12,7 +12,7 @@
 	branch = maia-sdr
 [submodule "maia-sdr"]
 	path = maia-sdr
-	url = https://github.com/maia-sdr/maia-sdr.git
+	url = https://github.com/sashobg/maia-sdr.git
 [submodule "IQEngine"]
 	path = IQEngine
 	url = https://github.com/IQEngine/IQEngine
